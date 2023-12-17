@@ -6,7 +6,7 @@
 <div align=center><h1>📚 Technicals 📚</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="(https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="(https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=base64decode('////1db//////5Z/+v///7pfXcv//91KSWy1/8V2fJq13//M2unw9v3///Ldy8/6///////r5v7////08///////2sv/////yIh1rPz/8GAfF0PbyGQuMEBw5pdvaGx/4f//2ptdW/P//////869/v////Lw///////Tw//////IgnCl9v/yYh8QBFbBUBUNCh2/dQ0EBh3L///Zjj018v//////y7f+'),7,8,3))&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
